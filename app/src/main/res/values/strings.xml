@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">悬浮时钟</string>
+    <string name="channel_name">悬浮时钟</string>
+    <string name="channel_desc">保持悬浮时钟运行</string>
+    <string name="notification_title">悬浮时钟正在显示</string>
+    <string name="notification_text">点按返回设置，或使用右侧按钮停止</string>
+</resources>

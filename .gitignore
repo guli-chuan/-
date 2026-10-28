@@ -1,0 +1,26 @@
+# Build output
+.build/
+dist/
+.package-tmp/
+.gradle/
+
+# Signing material must stay local
+signing/
+*.jks
+*.keystore
+
+# Local Android SDK / emulator data (not part of the source)
+.android-sdk/
+.fc-avd/
+.emu-home/
+.emu-tmp/
+.tmp/
+
+# IDE
+.idea/
+*.iml
+local.properties
+
+# OS
+Thumbs.db
+.DS_Store
